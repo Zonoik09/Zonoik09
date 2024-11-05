@@ -10,6 +10,7 @@
 
 - **👨‍🎓 Student:** Currently studying **Multiplatform Application Development**.
 - **🎮 Streamer:** I enjoy playing video games on [Twitch](https://twitch.tv/Zonoikk). Join my streams to watch gameplay, chat, and hang out! (Spanish Streamer)
+- **💬 Connect on Discord:** Join my community on [Discord](https://discord.gg/92PTubANWx) or add me directly: Zonoik.
 
 ## Languages & Skills
 
