@@ -10,7 +10,7 @@
 
 ## Languages & Skills
 
-- **Programming Languages:** Java, Python, JavaScript (basic knowledge)
+- **Programming Languages:** Java, Python, JavaScript, Dart, Flutter
 - **Markup Languages:** XML, HTML, CSS
 
 ---
