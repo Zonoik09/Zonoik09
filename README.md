@@ -1,6 +1,6 @@
 # Hello, I'm Zonoik! 👋
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zonoik09&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=dracula&hide_border=false%22%20height=%222000%22%20alt=%22languages%20graph%22" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonoik09&layout=compact&show_icons=true&bg_color=000000&text_color=FFFFFF" /></p><br>
 
 ## About Me
 
